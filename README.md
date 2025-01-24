@@ -22,7 +22,7 @@ This project uses an ESP32 to control relays through a web server. You can toggl
 ## Hardware Requirements
 
 - ESP32 development board
-- 4-channel relay module
+   relay module up to 4 
 - Jumper wires
 - Breadboard (optional)
 
