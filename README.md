@@ -78,6 +78,3 @@ This project uses an ESP32 to control relays through a web server. You can toggl
 
 Contributions are welcome! Please fork this repository and submit pull requests with your improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
